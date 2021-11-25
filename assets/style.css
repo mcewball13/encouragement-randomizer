@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("/assets/bg-main.jpg");
+}
+#quoteText {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 5rem;
+}
+.quote-wrapper {
+    padding-top: 5%;
+}
